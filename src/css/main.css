@@ -3,3 +3,14 @@
 /* Bloques BEM */
 @import "./components/buttons.css";
 @import "./components/cards.css";
+
+@import "tailwindcss";
+
+@theme{
+    --color-azulPotente: #063E67;
+    --color-azulSecundario: #4690FF;
+    --color-textosNoNegro: #393434;
+    --color-borde1: #C8C8C8;
+    --color-borde2: #B8B4B4;
+    --color-background: #F2F8FF;
+}
