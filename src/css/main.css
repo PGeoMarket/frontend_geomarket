@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+/* Bloques BEM */
+@import "./components/buttons.css";
+@import "./components/cards.css";

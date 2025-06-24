@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Archivos compilados por Tailwind
+public/assets/css/main.css
+
+# Archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Entorno (opcional si usas dotenv en el futuro)
+.env
